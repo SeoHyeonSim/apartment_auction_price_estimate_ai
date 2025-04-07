@@ -1,4 +1,4 @@
-## 주제: 부동산 경매 매물 플랫폼 (경매 낙찰가 예측)
+## 아파트 경매가 예측 AI 모델
 
 https://dacon.io/competitions/official/17801/overview/description
 
