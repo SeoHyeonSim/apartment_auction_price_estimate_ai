@@ -103,3 +103,13 @@ https://dacon.io/competitions/official/17801/overview/description
 ### 성능 평가 
 
 MSE, RMSE, R2 지수를 바탕으로 모델 성능 평가 진행 
+
+**예측 대상**: `Hammer_price` (낙찰가)
+
+| 모델 | RMSE (↓) | R² (↑) |
+| --- | --- | --- |
+| Random Forest | 약 1.16억 | 0.9707 |
+| XGBoost | 약 1.35억 | 0.9644 |
+| LightGBM | 약 1.29억 | 0.9672 |
+
+
